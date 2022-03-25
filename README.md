@@ -3,7 +3,8 @@
 <p>Я верстальщик из Беларуси  </p>
 <p>Успешно закончил курс по верстке сайтов на платформе <a href="https://annblok.ru/">AnnBlok</a></p>
 <p>В настоящее время занимаюсь разработкой сайтов и с большим удовольствием помогу вам реализовать ваши идеи </p>
-<p>Mое портфолио: </p>
+<br>
+<p>Примеры моих работ: </p>
 <a href="https://ponokir.github.io/Burger/index.html" traget="_blank">Сайт бургерной</a> <br>
 <a href="https://ponokir.github.io/Module01-Gym/index.html" traget="_blank">Фитнесс-центр FreeFit</a> <br>
 <a href="https://ponokir.github.io/Module02-Shop/dist/index.html" traget="_blank">Магазин здорового питания</a> 

@@ -1,4 +1,4 @@
-<h1 align="center"> Приветсвую, меня зовут Кирилл <img src="https://github.com/ponokir/ponokir/blob/main/images/hi.gif" alt="Hello"></h1>
+<h1 align="center"> Приветствую, меня зовут Кирилл <img src="https://github.com/ponokir/ponokir/blob/main/images/hi.gif" alt="Hello"></h1>
 </br>
 <p>Я верстальщик из Беларуси <img src="images/flag.jpg" alt="Flag of Belarus" width="30px"></p>
 <p>Успешно закончил курс по верстке сайтов на платформе <a href="https://annblok.ru/">AnnBlok</a></p>
